@@ -1,0 +1,79 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "link": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "rating": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "comment": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "categories": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "category": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "product_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "description": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "num_sold": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "num_review": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "spam_label": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "clean_comment": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "clean_tokenized_comment": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "clean_product_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "clean_tokenized_product_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "clean_description": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "clean_tokenized_description": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
